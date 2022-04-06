@@ -1,0 +1,11 @@
+Exit
+:q
+
+Exit and Save
+:wq
+
+Run Linux Commands
+:!command
+
+Insert
+i or a , I(start) in A(end)
